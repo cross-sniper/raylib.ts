@@ -1,3 +1,6 @@
+#raylib.ts
+raylib.ts aims to allow you to use typescript(bun) + raylib
+
 | FFIType   | C Type       | Aliases               |
 |-----------|--------------|-----------------------|
 | cstring   | char*        |                       |
